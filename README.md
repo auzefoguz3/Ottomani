@@ -1,1 +1,2 @@
-# Ottomani
+# Osmanlicaogren
+Osmanlıca öğrenmek isteyen kullanıcılar için kişiselleştirilebilir kelime listeleri, günlük görevler ve quiz özellikleriyle eğlenceli bir öğrenme ortamı sağlayan, kullanıcı dostu ve oyunlaştırılmış bir web uygulamasıdır. Özellikle kelime çalışmak ve quiz ile kendini test etmek isteyenlere yönelik tasarlanmıştır.
